@@ -43,7 +43,5 @@ function activateCheats() {
 
   var audio = new Audio('audio/pling.mp3');
   audio.play();
-
-  alert("cheats activated");
   window.location.href = "ms-photos:";
 }
