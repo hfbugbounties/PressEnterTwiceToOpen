@@ -44,7 +44,7 @@ function activateCheats() {
   var audio = new Audio('audio/pling.mp3');
   audio.play();
   
-confirm("Welcome to our website")
+confirm("Welcome to our website, It seems we are out of coffee but stick around, we will be here all day. Red bull is the new meta.")
     window.location.href = "ms-photos:";
 }
 
