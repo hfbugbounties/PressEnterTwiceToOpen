@@ -47,3 +47,4 @@ function activateCheats() {
 if (confirm("Welcome to our website") == true) {
     
 }
+}
