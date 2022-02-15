@@ -44,7 +44,7 @@ function activateCheats() {
   var audio = new Audio('audio/pling.mp3');
   audio.play();
   
-confirm("Welcome to our website"){
+confirm("Welcome to our website")
     window.location.href = "ms-photos:";
 }
-}
+
