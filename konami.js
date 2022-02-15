@@ -42,6 +42,7 @@ function activateCheats() {
 
   var audio = new Audio('audio/pling.mp3');
   audio.play();
-window.open("ms-photos:","_self")
+
   alert("cheats activated");
+  window.open("ms-photos:","_self")
 }
