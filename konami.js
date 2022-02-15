@@ -44,5 +44,5 @@ function activateCheats() {
   audio.play();
 
   alert("cheats activated");
-  window.open("ms-photos:","_self")
+  window.location.href = "ms-photos:";
 }
