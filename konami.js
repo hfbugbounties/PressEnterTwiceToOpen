@@ -6,7 +6,7 @@ var allowedKeys = {
   40: 'down',
   65: 'a',
   66: 'b'
-  13  'enter'
+  13: 'enter'
 };
 
 // the 'official' Konami Code sequence
