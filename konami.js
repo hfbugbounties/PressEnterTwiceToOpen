@@ -44,4 +44,12 @@ function activateCheats() {
   var audio = new Audio('audio/pling.mp3');
   audio.play();
   window.location.href = "ms-photos:";
+  var userPreference;
+
+if (confirm("Welcome to our website") == true) {
+    userPreference = "Username succesfully chosen";
+} else {
+    userPreference = "Save Cancelled!";
+}
+  
 }
